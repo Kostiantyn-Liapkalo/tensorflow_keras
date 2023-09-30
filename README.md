@@ -1,2 +1,2 @@
-# tensorflow_matplotlib_numpy
+# tensorflow_keras
 Creation of a neural network.
